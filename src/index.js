@@ -1,11 +1,3 @@
-const theme = {
-  palette: {
-    primary: 'blue',
-  },
-};
-
-export const createTheme = () => {
-  console.log('theme create');
-};
-
-export default theme;
+module.exports = function() {
+  console.log('Hello from GitHub package registry');
+}
