@@ -1,0 +1,19 @@
+{
+  "name": "@alexfedorchuk/awesome-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.ts",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexfedorchuk/awesome-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexfedorchuk/awesome-package/issues"
+  },
+  "homepage": "https://github.com/alexfedorchuk/awesome-package#readme"
+}
