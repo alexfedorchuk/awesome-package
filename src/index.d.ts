@@ -1,5 +1,5 @@
 type greetings = () => void;
 
-declare module 'greetings' {
+declare module '@alexfedorchuk/awesome-package' {
   export default greetings;
 }
