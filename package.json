@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/alexfedorchuk/awesome-package.git"
   },
+  "publishConfig": {
+    "@alexfedorchuk:registry": "https://npm.pkg.github.com"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
