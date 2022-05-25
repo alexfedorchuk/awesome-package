@@ -15,4 +15,4 @@ const Button: React.FC<ButtonProps> = ({ size = 'medium', children, ...rest }) =
   )
 };
 
-export default button;
+export default Button;
