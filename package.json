@@ -1,6 +1,6 @@
 {
   "name": "@alexfedorchuk/awesome-package",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
