@@ -1,5 +1,11 @@
-var button$1 = button;
+import React from 'react';
+
+declare type ButtonProps = {
+    size?: 'small' | 'medium' | 'large';
+    children?: React.ReactNode;
+};
+declare const Button: React.FC<ButtonProps>;
 
 declare function theme(type: 'light' | 'dark'): void;
 
-export { button$1 as Button, theme };
+export { Button, theme };

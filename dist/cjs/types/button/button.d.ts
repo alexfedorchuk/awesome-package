@@ -3,4 +3,5 @@ export declare type ButtonProps = {
     size?: 'small' | 'medium' | 'large';
     children?: React.ReactNode;
 };
-export default button;
+declare const Button: React.FC<ButtonProps>;
+export default Button;

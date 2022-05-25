@@ -1,2 +1,2 @@
-import"react";var o=button;function t(o){console.log(o)}export{o as Button,t as theme};
+import e from"react";const t=t=>{var{size:r="medium",children:o}=t,n=function(e,t){var r={};for(var o in e)Object.prototype.hasOwnProperty.call(e,o)&&t.indexOf(o)<0&&(r[o]=e[o]);if(null!=e&&"function"==typeof Object.getOwnPropertySymbols){var n=0;for(o=Object.getOwnPropertySymbols(e);n<o.length;n++)t.indexOf(o[n])<0&&Object.prototype.propertyIsEnumerable.call(e,o[n])&&(r[o[n]]=e[o[n]])}return r}(t,["size","children"]);return console.log(r),e.createElement("button",Object.assign({},n),o)};function r(e){console.log(e)}export{t as Button,r as theme};
 //# sourceMappingURL=index.js.map
